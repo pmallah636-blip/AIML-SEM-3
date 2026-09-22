@@ -11,6 +11,8 @@ class Vehicle {
 
     static displayPlatform() {
         console.log("Booking Platform: Ola");
+
+        
     }
 }
 
